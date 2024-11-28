@@ -4,10 +4,6 @@ Terramagotchi is a web app which aims to educate people about the cycles in natu
 * The remote application is the interface that will enable users to authenticate and communicate to Firebase through an external device.
 * The Firebase code is for deploying Firebase Cloud Functions that connect the main application and remote through a Firestore database.
 
-## Project Management Tool
-
-https://imateapot.atlassian.net/jira/software/projects/TPT/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiZjY3OGU1NWM5OGM5NDJkZWJhNzcwYjM0MjFmNGQ0NWIiLCJwIjoiaiJ9
-
 ## Technologies
 
 ### Languages
